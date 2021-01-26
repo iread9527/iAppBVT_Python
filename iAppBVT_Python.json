@@ -1,9 +1,11 @@
 {
     "desired_caps": {
         "platformName": "Android",
-        "deviceName": "<your device name>",
+        "deviceName": "927f6ae1",
         "udid": "<your device udid>",
-        "noReset": "false",
+        "noReset": "true",
+        "skipDeviceInitialization": "true",
+        "skipServerInstallation": "true",
         "automationName": "UiAutomator2",
         "appPackage": "com.appsflyer.androidsampleapp",
         "appActivity": ".MainActivity"

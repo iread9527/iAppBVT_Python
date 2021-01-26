@@ -10,4 +10,4 @@
 - 填入设备的 deviceName 与 udid
 
 运行命令：
-pytest -sv test/bvt_test.py --tc-file /full path/iAppBVT_Python.json --tc-format json
+pytest -sv test/bvt_test.py --tc-file iAppBVT_Python.json --tc-format json
